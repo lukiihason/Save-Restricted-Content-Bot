@@ -60,7 +60,7 @@ Deploy your bot on `heroku`
 
 <h3 align="center">
 ━━━━━━━━━━━━━━━━━━━━
- 
+</h3> 
 » Method - 2:
 - Star the repo, and fork it in desktop mode
 - create app in heroku
