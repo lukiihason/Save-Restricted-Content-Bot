@@ -25,11 +25,14 @@ A stable telegram bot to get restricted messages with custom thumbnail support ,
 - `AUTH` - Owner user id
 - `FORCESUB` - Public channel username without '@'. Don't forget to add bot in channel as administrator. 
 
-# Get API & PYROGRAM string session from:
- 
-API: [API scrapper Bot](https://t.me/USERS_RO_BOT) or [Telegram.org](https://my.telegram.org/auth)
+##  Get API & PYROGRAM string session from:
 
-PYROGRAM SESSION: [SessionGen Bot](https://t.me/SessionString_Ro_Bot) or [![Run on Repl.it](https://replit.com/badge/github/vasusen-code/saverestrictedcontentbot)](https://replit.com/@ShivPrasad1/GenerateStringSession)
+
+<p>
+<a href="(https://replit.com/@KindKobra/Pyrogram-String-Gen?v=1#Pink%20&%20Blue%20.mp4)"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
+<a href="https://t.me/SessionString_Ro_Bot"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
+</p>
+
 
 BOT TOKEN: @Botfather on telegram
 
