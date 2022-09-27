@@ -1,9 +1,10 @@
 <h1 align="center">
   <b>Save restricted content Bot</b>
+  </h1> 
   💠 #NSFW
 </h1> 
 
-Contact: [Telegram](https://t.me/sources_cods)
+Contact: [Telegram](https://t.me/Bae_wafaaa))
 
 A stable telegram bot to get restricted messages with custom thumbnail support , made by Mahesh Chauhan. 
 
@@ -36,7 +37,7 @@ BOT TOKEN: @Botfather on telegram
 
 Deploy your bot on `Render`
 
-Tutorial - [Click here](https://t.me/sources_cods)
+Tutorial - [Click here](https://t.me/Bae_wafaaa)
 
 Deploy your bot on `heroku`
 
@@ -61,6 +62,6 @@ Buildpacks for manual deploy:
 
 Deploy your bot on `Okteto` [Useless]
   
-Tutorial for okteto - [click here](https://t.me/sources_cods)
+Tutorial for okteto - [click here](https://t.me/Bae_wafaaa)
 
 [![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com)
