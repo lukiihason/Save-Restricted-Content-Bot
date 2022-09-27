@@ -26,6 +26,7 @@ A stable telegram bot to get restricted messages with custom thumbnail support ,
 - `FORCESUB` - Public channel username without '@'. Don't forget to add bot in channel as administrator. 
 
 <h3 align="center">
+ <p> 
    ─「 API & PYROGRAM 」─
 
 
