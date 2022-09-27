@@ -1,4 +1,4 @@
-#Github.com/8769Anurag
+
 
 import os
 from .. import bot as Drone
