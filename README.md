@@ -31,7 +31,7 @@ A stable telegram bot to get restricted messages with custom thumbnail support ,
 
 
 <p>
-<a href="(https://replit.com/@KindKobra/Pyrogram-String-Gen?v=1#Pink%20&%20Blue%20.mp4)"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
+<a href="(https://replit.com/@KindKobra/Pyrogram-String-Gen?v=1)"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
 </p>
 <a href="https://t.me/SessionString_Ro_Bot"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
 </p>
