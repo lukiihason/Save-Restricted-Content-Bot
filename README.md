@@ -1,5 +1,6 @@
 <h1 align="center">
   <b>Save restricted content Bot</b>
+  💠 #NSFW
 </h1> 
 
 Contact: [Telegram](https://t.me/sources_cods)
