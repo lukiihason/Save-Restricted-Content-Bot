@@ -29,7 +29,6 @@ A stable telegram bot to get restricted messages with custom thumbnail support ,
  <p> 
    ─「 API & PYROGRAM 」─
 
-
 <p>
 <a href="(https://replit.com/@KindKobra/Pyrogram-String-Gen?v=1)"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
 </p>
