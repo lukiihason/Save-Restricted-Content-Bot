@@ -1,7 +1,7 @@
 #Github.com/8769Anurag
 
 from pyrogram import Client
-
+from index import index
 from telethon.sessions import StringSession
 from telethon.sync import TelegramClient
 
