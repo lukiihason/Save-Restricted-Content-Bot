@@ -8,6 +8,8 @@ from telethon.sync import TelegramClient
 from decouple import config
 import logging, time, sys
 
+keep_alive()
+
 logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s',
                     level=logging.WARNING)
 
